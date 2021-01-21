@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("张三在线修改了源代码");
+        System.out.println("克隆的项目添加");
     }
 }
